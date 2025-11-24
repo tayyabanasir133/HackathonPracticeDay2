@@ -1,0 +1,15 @@
+*{margin: 0%;padding: 0%;box-sizing: border-box;    font-family: 'Roboto', sans-serif;}
+.header{width: 100%;height: 50px;position: fixed;display: flex;justify-content: space-between; box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15) !important;align-items: center;
+}
+.logo{width:100px;margin-left: 10px;margin-top: 15px;!important}
+.navlinks{text-decoration: none ; }
+.notactivelink{color: rgba(0, 0, 0, .55);}
+.activelink{color: rgba(0, 0, 0, .9);}
+.navbar{display: flex;align-content: center;}
+li{list-style: none;}
+.NIKE{color: #ff8367;font-weight: 500;font-size: large; margin-bottom: 10px;} 
+.REACT{color: rgba(0, 0, 0, .9) ;font-weight: 500;font-size: large;}
+.navbar ul li {display: inline; margin-right: 20px;}
+.headiv{margin-top:  -30px;}
+.imagemain{width:620px; height: 520; margin-top: 28px;}
+.text{}
